@@ -20,4 +20,3 @@ This is the [notebook](Technical-docs.ipynb)
 
 This is a great way to embed [image](https://github.com/vitorfolster/technical-discussion/issues/1)
 
-https://user-images.githubusercontent.com/110626307/283237456-20ed8632-86a9-4bb4-8b08-7f0172810128.png
