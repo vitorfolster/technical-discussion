@@ -15,3 +15,9 @@ This is a good example of using Gist with Github: [my_code](https://gist.github.
 ### Colab 
 
 This is the [notebook](Technical-docs.ipynb)
+
+### Images
+
+This is a great way to embed [image](https://github.com/vitorfolster/technical-discussion/issues/1)
+
+https://github.com/vitorfolster/technical-discussion/issues/1
