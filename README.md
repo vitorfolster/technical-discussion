@@ -20,3 +20,4 @@ This is the [notebook](Technical-docs.ipynb)
 
 This is a great way to embed [image](https://github.com/vitorfolster/technical-discussion/issues/1)
 
+<img width="185" alt="Captura de Tela 2023-11-15 às 17 17 20" src="https://github.com/vitorfolster/technical-discussion/assets/110626307/20ed8632-86a9-4bb4-8b08-7f0172810128">
